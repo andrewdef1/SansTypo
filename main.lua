@@ -7,8 +7,9 @@ Timer = require 'lib/knife.timer'
 WINDOW_WIDTH = 1280
 WINDOW_HEIGHT = 720
 
-ALPHABET = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'-"
+ALPHABET = "abcdefghijklmnopqrstuvwxyz'-."
 
+local utf8 = require("utf8")
 local font = love.graphics.newFont('fonts/MRF Lemonberry Sans.otf', 64)
 
 local currentTime = 60
@@ -60,16 +61,18 @@ function love.keypressed(key)
         score = 0
         chooseWord()
     end
+        
 
     if not start and not gameOver then
         for i = 1, #ALPHABET do
-            local string = ALPHABET:sub(i, i)
-
+            local char = ALPHABET:sub(i, i)
+            
+                        
             -- if we have pressed this key of the alphabet...
-            if key == string then
+            if key == char then
 
                 -- if we have typed the current correct letter...
-                if string == fullString:sub(currentCharIndex, currentCharIndex) then
+                if char == fullString:sub(currentCharIndex, currentCharIndex) then
 
                     -- successfully typed full word
                     if currentCharIndex == fullString:len() then
