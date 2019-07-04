@@ -152,7 +152,7 @@ love.graphics.setColor(1, 1, 1, 1)
     -- draw the score in the top-right
     love.graphics.printf(tostring(score), 0, 0, WINDOW_WIDTH, 'right')
 
-    love.graphics.printf(tostring(#words) .. ' kata telah dimuat!',
+    love.graphics.printf(tostring(#words) .. ' kata dasar Bahasa Indonesia!',
         0, 64, WINDOW_WIDTH, 'center')
 
     -- draw starting panel
