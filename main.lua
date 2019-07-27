@@ -4,6 +4,8 @@ SANS TYPO
 
 Timer = require 'lib/knife.timer'
 
+love.window.setTitle("SANS TYPO")
+
 WINDOW_WIDTH = 1366
 WINDOW_HEIGHT = 768
 
@@ -35,7 +37,6 @@ local cursor = false
 local background
 
 function love.load()
-  love.window.setFullscreen(true, "desktop")
     chill:setLooping( true )
     chill:play()
     love.window.setMode(WINDOW_WIDTH, WINDOW_HEIGHT)
