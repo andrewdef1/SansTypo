@@ -66,8 +66,6 @@ function love.load()
     chooseWord()
     
     Timer.game_paused = false
-          
-    govermusic:setLooping(false)
 
 end
 
