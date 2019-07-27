@@ -4,16 +4,25 @@ SANS TYPO
 
 Timer = require 'lib/knife.timer'
 
-WINDOW_WIDTH = 1280
-WINDOW_HEIGHT = 720
+WINDOW_WIDTH = 1366
+WINDOW_HEIGHT = 768
 
 ALPHABET = "abcdefghijklmnopqrstuvwxyz'-./"
 
+
 local font = love.graphics.newFont('fonts/UbuntuCondensed-Regular.ttf', 64)
+
+local chill = love.audio.newSource( 'Distance-chill_typing.mp3', 'stream' )
+local startmusic = love.audio.newSource ('ES_Acoustic Guitar 13 - SFX Producer.mp3', 'static')
+local timersfx = love.audio.newSource ('1_min_timer_slow-1detik.mp3', 'stream')
+local govermusic = love.audio.newSource ('ES_1920s Chicago 1 (Sting) - Magnus RingblomCUT.mp3', 'static')
+local wrongsfx = love.audio.newSource ('teng_teng.mp3', 'static')
+local correctsfx = love.audio.newSource ('ting.mp3', 'static')
 
 local currentTime = 60
 local currentCharIndex = 1
 local score = 0
+
 
 local words = {}
 local fullString
@@ -26,8 +35,12 @@ local cursor = false
 local background
 
 function love.load()
-   
+  love.window.setFullscreen(true, "desktop")
+    chill:setLooping( true )
+    chill:play()
     love.window.setMode(WINDOW_WIDTH, WINDOW_HEIGHT)
+    love.window.setFullscreen(true, "exclusive")
+    
     
     background = love.graphics.newImage('WoodBackground.png')
 
@@ -35,6 +48,7 @@ function love.load()
 
     Timer.every(1, function()
         currentTime = currentTime - 1
+        timersfx:play()
         if currentTime == 0 then
             gameOver = true
             currentTime = 60
@@ -51,19 +65,26 @@ function love.load()
     chooseWord()
     
     Timer.game_paused = false
+          
+    govermusic:setLooping(false)
+
 end
 
 
 
 function love.keypressed(key, unicode)
   
- if key == 'return' then game_paused = not game_paused end
+ if key == 'return' then 
+   game_paused = not game_paused 
+   timersfx:pause()
+   end
 
     if key == 'escape' then
         love.event.quit()
     end
 
     if start and key == 'space' then
+      startmusic:play()
         start = false
     end
 
@@ -71,10 +92,11 @@ function love.keypressed(key, unicode)
         gameOver = false
         score = 0
         chooseWord()
+        startmusic:play()
         
     end
         
-
+      
     if not start and not gameOver then
         for i = 1, #ALPHABET do
             local char = ALPHABET:sub(i, i)
@@ -89,6 +111,7 @@ function love.keypressed(key, unicode)
                     -- successfully typed full word
                     if currentCharIndex == fullString:len() then
                         score = score + fullString:len()
+                        correctsfx:play()
                         chooseWord()
                     else
                         currentCharIndex = currentCharIndex + 1
@@ -96,6 +119,7 @@ function love.keypressed(key, unicode)
                 else
 
                     -- else if we typed the wrong letter...
+                    wrongsfx:play()
                     currentCharIndex = 1
                 end
             end
@@ -103,13 +127,12 @@ function love.keypressed(key, unicode)
     end
 end
 
+
 function love.update(dt)
-   
     if not start and not gameOver and not game_paused then
         Timer.update(dt)
     end
     
-
 end
 
 function love.draw()
@@ -123,6 +146,7 @@ if game_paused then
   if math.floor(love.timer.getTime()) % 2 == 0 then
   love.graphics.print("GAME DI PAUSE" ,WINDOW_WIDTH / 2 - font:getWidth("GAME DI PAUSE") / 2, WINDOW_HEIGHT / 2 - 32)
 end
+
 love.graphics.setColor(1, 1, 1, 1)
   return 
   end
@@ -162,23 +186,24 @@ love.graphics.setColor(1, 1, 1, 1)
         love.graphics.setColor(1, 1, 1, 1)
         love.graphics.printf('Tekan SPACE untuk Mulai', 0, WINDOW_HEIGHT / 2 - 110, WINDOW_WIDTH, 'center')
         love.graphics.printf('Tekan ENTER untuk Pause', 0, WINDOW_HEIGHT / 2 - 55, WINDOW_WIDTH, 'center')
-        love.graphics.printf('Tekan esc untuk Keluar', 0, WINDOW_HEIGHT / 2 - 1, WINDOW_WIDTH, 'center')
-        
+        love.graphics.printf('Tekan ESC untuk Keluar', 0, WINDOW_HEIGHT / 2 - 1, WINDOW_WIDTH, 'center')
     end
 
     if gameOver then
+        govermusic:setLooping( false )
+        govermusic:play()
+        
         love.graphics.setColor(0.43, 0.28, 0.01, 1)
         love.graphics.rectangle('fill', 128, 128, WINDOW_WIDTH - 256, WINDOW_HEIGHT - 256)
         love.graphics.setColor(1, 1, 1, 1)
         love.graphics.printf('END GAME', 0, WINDOW_HEIGHT / 3 - 20, WINDOW_WIDTH, 'center')
         love.graphics.printf('Skor kamu: ' .. tostring(score), 0, WINDOW_HEIGHT / 2 - 70, WINDOW_WIDTH, 'center')
         love.graphics.printf('Tekan SPACE untuk Ngulang', 0, WINDOW_HEIGHT / 2 - 5, WINDOW_WIDTH, 'center')
-
-    end
+      end
 end
 
 function initializeDictionary()
-    for line in love.filesystem.lines('large.txt') do
+    for line in love.filesystem.lines('kata.txt') do
         table.insert(words, line) 
     end
 end

@@ -99,7 +99,6 @@ acala
 acan
 acang
 acap
-acap.kali
 acar
 acara
 acaram
@@ -114,7 +113,6 @@ acu
 acuh
 acum
 acung
-ad.libitum
 ada
 adab
 adad
@@ -203,8 +201,6 @@ adsorben
 adsorpsi
 adstringen
 adu
-adu.domba
-adu.untung
 aduhai
 aduk
 aduksi
@@ -548,8 +544,6 @@ alibi
 alienasi
 alifatik
 alih
-alih.aksara
-alih.fungsi
 alihragam
 alik
 alikuot
@@ -601,9 +595,8 @@ alotropi
 alpa
 alpaka
 alperes
-alquran
+al-quran
 altar
-alter.ego
 alternasi
 alternatif
 alternator
@@ -658,13 +651,11 @@ ambang
 ambar
 ambasador
 ambek
-ambek.paramaarta
 ambergris
 ambet
 ambigu
 ambiguitas
 ambil
-ambil.alih
 ambilingual
 ambin
 ambing
@@ -782,9 +773,6 @@ anaforis
 anaglif
 anai-anai
 anak
-anak.emas
-anak.sungai
-anak.tiri
 anakoluton
 anakronisme
 anal
@@ -839,7 +827,6 @@ andrologi
 anduh
 aneh
 aneka
-aneka.ragam
 anekdot
 aneksasi
 anemia
@@ -1491,7 +1478,6 @@ ataksia
 atap
 atar
 atas
-atas.nama
 atase
 atau
 atavisme
@@ -1828,7 +1814,6 @@ bakam
 bakap
 bakar
 bakarat
-bakas.lewu
 bakat
 bakau
 bakda
@@ -1885,7 +1870,6 @@ balans
 balap
 balar
 balas
-balas.dendam
 balau
 balela
 balen
@@ -1999,7 +1983,6 @@ bangkut
 banglas
 bangle
 banglo
-bango.tolak
 bangor
 bangpak
 bangsa
@@ -2173,7 +2156,6 @@ batok
 batolit
 baton
 batu
-batu.bara
 batuk
 batun
 batung
@@ -2229,8 +2211,6 @@ bebang
 bebar
 bebaru
 bebas
-bebas.murni
-bebas.tugas
 bebat
 bebe
 bebek
@@ -2625,7 +2605,6 @@ benzedrin
 benzena
 benzil
 benzoat
-benzoil.peroksida
 benzoin
 benzol
 beo
@@ -2678,7 +2657,6 @@ berewok
 bergas
 berguk
 beri
-beri.tahu
 beriang
 beriani
 berida
@@ -2755,7 +2733,6 @@ beser
 besero
 beset
 besi
-besi.tua
 besikal
 besing
 besit
@@ -2870,7 +2847,6 @@ bihi
 bihun
 bija
 bijak
-bijak.raja
 bijaksana
 bijaksanawan
 bijan
@@ -3063,7 +3039,6 @@ bistik
 bisu
 bisul
 bit
-bit.gula
 biti
 biting
 bitisik
@@ -3334,7 +3309,6 @@ brutal
 brutalisme
 bruto
 bu
-bua.tanah
 buah
 buai
 buak
@@ -3370,7 +3344,6 @@ buddhisme
 bude
 budek
 budi
-budi.daya
 budian
 budiman
 budu
@@ -3430,7 +3403,6 @@ bulimia
 bulir
 bulsak
 bulu
-bulu.tangkis
 bulu-bulu
 buluh
 buluk
@@ -3445,8 +3417,6 @@ bumbung
 bumel
 bumerang
 bumi
-bumi.hangus
-bumi.rata
 bumiah
 bumiputra
 bumper
@@ -3590,14 +3560,12 @@ cabur
 cabut
 caca
 cacah
-cacah.jiwa
 cacak
 cacap
 cacar
 cacat
 cacau
 caci
-caci.maki
 cacibar
 cacil
 cacing
@@ -3691,14 +3659,11 @@ camplungan
 campuh
 campung
 campur
-campur.aduk
-campur.baur
 camuk
 camur
 canai
 canak
 canang
-cancan.bulan
 cancang
 cancut
 canda
@@ -4273,7 +4238,6 @@ coban
 cobek
 coblos
 cocok
-cocok.tanam
 cocol
 cocor
 codak
@@ -4475,7 +4439,6 @@ dabus
 dacin
 dad
 dada
-dada.ruah
 dadah
 dadaisme
 dadak
@@ -4496,7 +4459,6 @@ daerah
 daerahisme
 dafnah
 daftar
-daftar.hitam
 daga
 dagang
 dage
@@ -4634,10 +4596,6 @@ darat
 darau
 dargah
 dari
-dari.mana
-dari.sana
-dari.sini
-dari.situ
 daripada
 darji
 darma
@@ -4677,23 +4635,18 @@ datatamak
 dati
 datif
 datu
-datu.petinggi
 datuk
 datum
 datung
 dauk
 daulat
 daun
-daun.nasi
 daur
-daur.ulang
 dawai
 dawan
 dawat
 dawet
 daya
-daya.guna
-daya.upaya
 dayah
 dayang
 dayu
@@ -5220,10 +5173,10 @@ dewasa
 dewata
 dewi
 di
-di.mana
-di.sana
-di.sini
-di.situ
+dimana
+disana
+disini
+disitu
 dia
 diabetes
 diad
@@ -5290,7 +5243,6 @@ didis
 didong
 dielektrik
 diensefalon
-dies.natalis
 diesel
 diet
 dietetika
@@ -5585,7 +5537,6 @@ dompet
 domplang
 dompleng
 dompol
-don.juan
 donasi
 donat
 donatur
@@ -6627,7 +6578,6 @@ etik
 etika
 etiket
 etil
-etil.alkohol
 etilena
 etimologi
 etimologis
@@ -7347,7 +7297,6 @@ gandung
 gang
 ganggang
 ganggu
-ganggu.gugat
 ganggut
 ganglion
 gangsa
@@ -7420,7 +7369,6 @@ garib
 garindin
 garing
 garis
-garis.bawah
 garit
 garizah
 garmen
@@ -7534,7 +7482,6 @@ geduyut
 gegabah
 gegadan
 gegai
-gegak.gempita
 gegala
 gegaman
 gegana
@@ -8363,7 +8310,6 @@ got
 gotes
 gotik
 gotong
-gotong.royong
 gotri
 gotrok
 gotun
@@ -8624,7 +8570,6 @@ hakikat
 hakiki
 hakim
 hakimah
-hakul.adam
 hakulah
 hakulyakin
 hal
@@ -8693,8 +8638,6 @@ hanacaraka
 hanafi
 hancing
 hancur
-hancur.lebur
-hancur.luluh
 handai
 handaruan
 handasah
@@ -8760,7 +8703,6 @@ harta
 hartal
 hartawan
 haru
-haru.biru
 haruan
 harum
 harungguan
@@ -9022,7 +8964,6 @@ higrotermogram
 hijab
 hijaiah
 hijau
-hijau.daun
 hijrah
 hijriah
 hikayat
@@ -9040,7 +8981,6 @@ himenium
 himne
 himpun
 hina
-hina.dina
 hinap
 hinayana
 hindar
@@ -9147,7 +9087,6 @@ historisisme
 historisitas
 hit
 hitam
-hitam.putih
 hitung
 hiu
 hiyayat
@@ -9233,7 +9172,6 @@ hostel
 hostes
 hosti
 hot
-hot.dog
 hotel
 howitzer
 huakiau
@@ -9436,7 +9374,6 @@ iktiraf
 iktisab
 ikuh
 ikut
-ikut.serta
 ilafi
 ilah
 ilahi
@@ -9553,7 +9490,6 @@ imunologi
 imunologis
 imunosupresi
 imunoterapi
-in.absensia
 ina
 inadaptabilitas
 inai
@@ -9673,7 +9609,6 @@ inggris
 inggu
 inggung
 ingin
-ingin.tahu
 ingkah
 ingkar
 ingkir
@@ -9777,7 +9712,6 @@ insulator
 insuler
 insulin
 insulinde
-insya.allah
 intai
 intan
 integral
@@ -9945,7 +9879,6 @@ iras
 irasional
 irasionalitas
 iri
-iri.hati
 iridium
 irigasi
 irigator
@@ -9961,7 +9894,6 @@ ironis
 irsyad
 irung
 irus
-isa.almasih
 isak
 isalohipse
 isap
@@ -10106,7 +10038,6 @@ jabal
 jabang
 jabariah
 jabat
-jabat.tangan
 jabir
 jables
 jabrik
@@ -10204,7 +10135,6 @@ jambulan
 jambur
 jamhur
 jamiah
-jamiatul.hujaj
 jamik
 jamil
 jamin
@@ -10273,7 +10203,6 @@ jaram
 jaran
 jaranan
 jarang
-jarang.laut
 jaras
 jarem
 jargon
@@ -10290,7 +10219,6 @@ jarum
 jarwa
 jas
 jasa
-jasa.boga
 jasad
 jasadi
 jasmani
@@ -10744,7 +10672,6 @@ jua
 juadah
 juak
 jual
-jual.beli
 juandang
 juang
 juar
@@ -10820,7 +10747,6 @@ jungkang
 jungkar
 jungkat
 jungkir
-jungkir.balik
 jungkit
 jungkol
 jungur
@@ -10848,7 +10774,6 @@ jurnalis
 jurnalisme
 jurnalistik
 juru
-juru.bicara
 juruh
 jurung
 jurus
@@ -10900,7 +10825,6 @@ kacer
 kaci
 kacici
 kacip
-kacip.fatimah
 kacir
 kacrek
 kacu
@@ -11130,7 +11054,6 @@ kambeh
 kambeli
 kamber
 kambi
-kambing.hitam
 kambium
 kambrik
 kambrium
@@ -11202,7 +11125,6 @@ kandas
 kandel
 kandela
 kandi
-kandi.putih
 kandidat
 kandidiasis
 kandil
@@ -11298,7 +11220,6 @@ kapis
 kapisa
 kapit
 kapita
-kapita.selekta
 kapital
 kapitalis
 kapitalisme
@@ -11328,7 +11249,6 @@ kapu
 kapuk
 kapung
 kapur
-kapur.sirih
 kapurancang
 kara
 karabin
@@ -11446,7 +11366,6 @@ karton
 kartonase
 kartotek
 kartu
-kartu.merah
 kartun
 kartunis
 karu
@@ -11672,7 +11591,6 @@ kebut
 kebyar
 kecai
 kecak
-kecak.pinggang
 kecalingan
 kecam
 kecambah
@@ -11695,7 +11613,6 @@ kecibak
 kecibeling
 kecik
 kecil
-kecil.hati
 kecimik
 kecimpring
 kecimpung
@@ -11917,7 +11834,6 @@ keler
 kelereng
 kelesa
 kelesah
-keleseh.peseh
 kelesek
 kelesot
 keletah
@@ -12066,7 +11982,6 @@ kembal
 kembali
 kemban
 kembang
-kembang.biak
 kembar
 kembatu
 kembayat
@@ -12382,12 +12297,10 @@ kerepek
 kerepes
 kerepot
 kerepyak
-kerese.pese
 keresek
 kereseng
 keresot
 kereta
-kereta.api
 keretan
 keretek
 keretot
@@ -12472,7 +12385,6 @@ keroncang
 keroncong
 keroncor
 kerong
-kerong.kerang
 kerongsang
 kerontang
 kerop
@@ -12521,7 +12433,6 @@ kerucil
 kerucut
 kerudung
 keruh
-keruh.bumi
 keruit
 keruk
 kerukut
@@ -12686,8 +12597,6 @@ khalifah
 khalifatullah
 khalik
 khalikah
-khalikul.alam
-khalikul.bahri
 khalil
 khalilullah
 khalis
@@ -12907,7 +12816,6 @@ kirim
 kirinyu
 kirip
 kiris
-kirita.makuta
 kirmizi
 kiru
 kiruh
@@ -13715,11 +13623,9 @@ kosokbali
 kosong
 kostum
 kota
-kota.mara
 kotah
 kotai
 kotak
-kotak.katik
 kotaklema
 kotek
 koteka
@@ -13996,7 +13902,6 @@ kukila
 kuku
 kukuh
 kukuk
-kukuk.beluk
 kukul
 kukup
 kukur
@@ -14051,7 +13956,6 @@ kumbuh
 kumena
 kumico
 kumis
-kumis.kucing
 kumpai
 kumpal
 kumpar
@@ -14334,7 +14238,6 @@ laktometer
 lakton
 laktosa
 laku
-laku.lajak
 lakum
 lakuna
 lakur
@@ -14350,9 +14253,7 @@ lalat
 lalau
 lali
 lalu
-lalu.lintas
 lam
-lam.alif
 lama
 laman
 lamang
@@ -14593,7 +14494,6 @@ latah
 latak
 latam
 latar
-latar.belakang
 latas
 lateks
 laten
@@ -15170,7 +15070,6 @@ lili
 lilin
 liliput
 lilit
-lilit.kutu
 lillahi
 lima
 liman
@@ -15294,7 +15193,6 @@ lipan
 lipas
 lipase
 lipat
-lipat.ganda
 lipektomi
 lipemia
 lipid
@@ -15515,7 +15413,6 @@ luak
 luang
 luap
 luar
-luar.biasa
 luas
 luat
 luban
@@ -15553,7 +15450,6 @@ lukut
 lulai
 luli
 luluh
-luluh.lantak
 luluk
 lulum
 lulup
@@ -15728,7 +15624,6 @@ magribi
 magrur
 magun
 mah
-maha.esa
 mahabah
 mahabintang
 mahadewa
@@ -16211,7 +16106,6 @@ marut
 marwas
 mas
 masa
-masa.bodoh
 masai
 masak
 masakat
@@ -16270,7 +16164,6 @@ mastuli
 masturbasi
 masuk
 masuliah
-masya.allah
 masyakah
 masyarakat
 masygul
@@ -16339,7 +16232,6 @@ mauz
 mawadah
 mawar
 mawas
-mawas.diri
 maweda
 mawin
 mawon
@@ -16428,7 +16320,6 @@ meger
 mei
 meiosis
 meja
-meja.hijau
 mejam
 mejan
 mejana
@@ -16502,7 +16393,6 @@ mempan
 mempelai
 mempelam
 mempelas
-mempelas.hari
 mempelasari
 mempening
 memper
@@ -17021,7 +16911,6 @@ mitologis
 mitos
 mitosis
 mitra
-mitra.sejajar
 mitraliur
 mizab
 mizan
@@ -17188,7 +17077,6 @@ mordan
 moreng
 mores
 morf
-morf.zero
 morfem
 morfemik
 morfemis
@@ -17598,7 +17486,6 @@ nahu
 naib
 naif
 naik
-naik.kelas
 naim
 najam
 najasah
@@ -17720,7 +17607,6 @@ navigator
 nawa
 nawaitu
 nawala
-nawala.patra
 nawalapradata
 nayaka
 nayam
@@ -17769,7 +17655,7 @@ nekad
 nekara
 nekat
 nekel
-neko.neko
+neko-neko
 nekrofag
 nekrofagus
 nekrofili
@@ -17832,7 +17718,6 @@ nepotisme
 neptunium
 neptunus
 neraca
-nerak.sarak
 neraka
 neritik
 neritopelagik
@@ -18103,7 +17988,6 @@ nutrisi
 nutrisionis
 nutrisisme
 nuzul
-nuzulul.quran
 nyai
 nyak
 nyala
@@ -18274,8 +18158,6 @@ okultisme
 okupasi
 okupasional
 olah
-olah.gerak
-olah.tubuh
 olahraga
 olahragawan
 olak
@@ -18307,7 +18189,6 @@ oliva
 olivin
 olok
 om
-om.swastiastu
 oma
 ombak
 ombyok
@@ -18594,7 +18475,6 @@ pacak
 pacal
 pacangan
 pacar
-pacar.cina
 pacau
 pace
 pacek
@@ -18769,7 +18649,6 @@ pamer
 pamflet
 pamit
 pamong
-pamong.praja
 pamor
 pampa
 pampan
@@ -18808,7 +18687,6 @@ pancang
 pancaniti
 pancapersada
 pancar
-pancar.terus
 pancaragam
 pancarajadiraja
 pancaroba
@@ -18873,7 +18751,6 @@ panggung
 pangkah
 pangkai
 pangkal
-pangkal.tolak
 pangkas
 pangkat
 pangkek
@@ -18889,7 +18766,6 @@ pangolat
 pangonan
 pangpet
 pangpung
-pangreh.praja
 pangrukti
 pangsa
 pangsek
@@ -19269,8 +19145,6 @@ payung
 pe
 peang
 pecah
-pecah.belah
-pecah.beling
 pecai
 pecak
 pecal
@@ -19635,7 +19509,6 @@ perak
 peraka
 peram
 peran
-peran.serta
 perang
 perangah
 perangai
@@ -19861,7 +19734,6 @@ perslah
 persneling
 person
 persona
-persona.nongrata
 personal
 personalia
 personalisme
@@ -19924,7 +19796,6 @@ pesolot
 pesona
 pesong
 pesta
-pesta.pora
 pestaka
 pestisida
 pestol
@@ -19957,7 +19828,6 @@ peterana
 peterseli
 petes
 peti
-peti.es
 petia
 petik
 petikrah
@@ -20100,7 +19970,6 @@ pincuk
 pincut
 pinda
 pindah
-pindah.tugas
 pindai
 pindang
 pines
@@ -20709,7 +20578,6 @@ privatisasi
 prive
 privilese
 pro
-pro.forma
 proaktif
 probabilitas
 problem
@@ -20960,7 +20828,6 @@ pukat
 pukau
 puki
 pukul
-pukul.rata
 pul
 pula
 pulai
@@ -21110,14 +20977,10 @@ pusu
 pusung
 pusut
 putar
-putar.balik
-putar.lidah
 putat
 puter
 puti
 putih
-putih.mata
-putih.tulang
 putik
 puting
 putra
@@ -21126,11 +20989,8 @@ putrawali
 putrefaksi
 putresin
 putri
-putri.boyongan
-putri.malu
 putriditas
 putu
-putu.mayang
 putus
 putut
 puyan
@@ -21312,7 +21172,6 @@ ram
 rama
 ramadan
 ramah
-ramah.tamah
 ramai
 ramal
 ramanda
@@ -21495,7 +21354,6 @@ ratu
 ratus
 rau
 raudah
-raudatul.atfal
 raum
 raun
 raung
@@ -21664,9 +21522,6 @@ rejeng
 rejuk
 rek
 reka
-reka.bentuk
-reka.cipta
-reka.pangan
 rekah
 rekal
 rekalkulasi
@@ -22159,7 +22014,6 @@ rintis
 rinyai
 riol
 ripit
-ripta.loka
 ripuh
 ripuk
 ririt
@@ -22369,8 +22223,6 @@ rukun
 rukyat
 rukyatulhilal
 rumah
-rumah.sakit
-rumah.tangga
 rumba
 rumbah
 rumbai
@@ -22606,8 +22458,6 @@ sal
 sala
 salaf
 salah
-salah.arti
-salah.guna
 salai
 salak
 salam
@@ -22653,8 +22503,6 @@ salut
 salvarsan
 salvo
 sama
-sama.ada
-sama.rata
 samad
 samak
 saman
@@ -22677,12 +22525,10 @@ samben
 sambet
 sambi
 sambil
-sambil.lalu
 sambiloto
 sambit
 sambuk
 sambung
-sambung.tangan
 sambur
 sambut
 sami
@@ -22756,7 +22602,6 @@ sangar
 sangat
 sangau
 sangga
-sangga.mara
 sanggah
 sanggam
 sanggama
@@ -22789,7 +22634,6 @@ sangkil
 sangku
 sangkur
 sangkut
-sangkut.paut
 sangli
 sangling
 sanglir
@@ -22877,7 +22721,6 @@ saren
 sarengat
 sarhad
 sari
-sari.pati
 saridele
 sarik
 sarikan
@@ -22937,8 +22780,6 @@ satori
 satpam
 satron
 satu
-satu.meja
-satu.padu
 saturnus
 saturometer
 satwa
@@ -22997,7 +22838,6 @@ sebak
 sebal
 sebam
 sebar
-sebar.luas
 sebarau
 sebasah
 sebat
@@ -23721,7 +23561,6 @@ sepada
 sepah
 sepai
 sepak
-sepak.bola
 sepakat
 sepal
 sepam
@@ -23777,7 +23616,6 @@ serabut
 serabutan
 seraga
 serah
-serah.terima
 serahi
 serai
 serak
@@ -23882,8 +23720,6 @@ sergam
 sergap
 sergut
 seri
-seri.bumi
-seri.danta
 serial
 seriap
 seriat
@@ -24028,7 +23864,6 @@ seteru
 setewel
 seti
 setia
-setia.kawan
 setiabu
 setiar
 setiawan
@@ -24109,8 +23944,6 @@ sianometri
 sianosis
 siantan
 siap
-siap.sedia
-siap.siaga
 siapa
 siapuh
 siar
@@ -24264,7 +24097,6 @@ simpai
 simpak
 simpan
 simpang
-simpang.siur
 simpanse
 simpati
 simpatik
@@ -24709,7 +24541,6 @@ sontoloyo
 sop
 sopak
 sopan
-sopan.santun
 sopek
 sopi
 sopir
@@ -24810,7 +24641,6 @@ spidol
 spidometer
 spikul
 spil
-spina.bifida
 spion
 spionase
 spiral
@@ -25087,8 +24917,6 @@ subyektif
 subyektivisme
 suceng
 suci
-suci.hama
-suci.kuman
 suda
 sudah
 sudet
@@ -25214,7 +25042,6 @@ sunah
 sunam
 sunan
 sunat
-sunat.rasul
 sunatullah
 sunbulat
 sundai
@@ -25321,7 +25148,6 @@ suralaya
 suraloka
 suram
 surat
-surat.kabar
 surati
 surau
 suraya
@@ -25349,7 +25175,6 @@ suryakanta
 suryani
 sus
 susah
-susah.payah
 susastra
 suseptibilitas
 susila
@@ -25373,7 +25198,6 @@ sutil
 sutra
 sutradara
 sutura
-suul.adab
 suun
 suuzan
 suvenir
@@ -25495,7 +25319,6 @@ taala
 taaruf
 taasub
 taat
-taat.asas
 taazur
 tabak
 tabal
@@ -25524,7 +25347,6 @@ tabok
 tabrak
 tabu
 tabuh
-tabula.rasa
 tabulasi
 tabulator
 tabulatur
@@ -25717,7 +25539,6 @@ tamat
 tamatulkalam
 tambah
 tambak
-tambak.bukit
 tambakan
 tambal
 tamban
@@ -25808,7 +25629,6 @@ tangguk
 tanggul
 tanggulang
 tanggung
-tanggung.jawab
 tangis
 tangkah
 tangkai
@@ -25824,7 +25644,6 @@ tangkue
 tangkuk
 tangkul
 tangkup
-tangkup.telentang
 tangkur
 tanglung
 tango
@@ -25868,12 +25687,6 @@ tap
 tapa
 tapai
 tapak
-tapak.burung
-tapak.dara
-tapak.gajah
-tapak.kuda
-tapak.liman
-tapak.tilas
 tapal
 tapang
 tapestri
@@ -25963,13 +25776,6 @@ tasyhid
 tasyrih
 tasyrik
 tata
-tata.bahasa
-tata.guna
-tata.laksana
-tata.negara
-tata.niaga
-tata.praja
-tata.usaha
 tataganing
 tatah
 tatai
@@ -26074,7 +25880,6 @@ teh
 teisme
 teja
 teji
-teka.teki
 tekaan
 tekad
 tekah
@@ -26356,15 +26161,12 @@ tempurung
 tempus
 tempuyung
 temu
-temu.duga
 temucut
 temukut
 temungkul
 temuras
 temurat
 tenaga
-tenaga.kerja
-tenaga.nuklir
 tenahak
 tenak
 tenam
@@ -26473,12 +26275,10 @@ teorisasi
 teosofi
 teosofis
 tepa
-tepa.salira
 tepak
 tepam
 tepas
 tepat
-tepat.guna
 tepeh
 tepek
 tepekong
@@ -26495,7 +26295,6 @@ teptibau
 tepu
 tepuk
 tepung
-tepung.tawar
 tepurang
 tepus
 ter
@@ -26514,7 +26313,6 @@ terampil
 teran
 teranas
 terang
-terang.jelas
 terap
 terapang
 terapeutik
@@ -26556,7 +26354,6 @@ terik
 terika
 terikit
 terima
-terima.kasih
 terin
 terindil
 tering
@@ -26652,7 +26449,6 @@ terungku
 teruntum
 terup
 terus
-terus.terang
 terusi
 terwelu
 terzina
@@ -26704,7 +26500,6 @@ tiaga
 tiam
 tian
 tiang
-tiang.pancang
 tiangui
 tiap
 tiara
@@ -26776,7 +26571,6 @@ timur
 timus
 tin
 tindak
-tindak.lanjut
 tindan
 tindas
 tindawan
@@ -26854,7 +26648,6 @@ titel
 titer
 titi
 titik
-titik.berat
 titilasi
 titimangsa
 titinada
@@ -27004,7 +26797,6 @@ torso
 tortor
 torus
 tos
-tosan.aji
 toserba
 total
 totalisator
@@ -27067,7 +26859,6 @@ translokasi
 translusens
 transmigran
 transmigrasi
-transmigrasi.lokal
 transmisi
 transmiter
 transmogrifikasi
@@ -27105,7 +26896,6 @@ trengginas
 trenyuh
 tres
 tresna
-trias.politika
 triatlon
 tribokelistrikan
 tribologi
@@ -27207,7 +26997,6 @@ tuala
 tualang
 tuam
 tuan
-tuan.rumah
 tuang
 tuangku
 tuanku
@@ -27234,7 +27023,6 @@ tufah
 tugal
 tugar
 tugas
-tugas.karya
 tugi
 tugu
 tugur
@@ -27252,8 +27040,6 @@ tujah
 tuji
 tuju
 tujuh
-tujuh.bulan
-tujuh.hari
 tujul
 tuk
 tukai
@@ -27309,7 +27095,6 @@ tumpah
 tumpak
 tumpal
 tumpang
-tumpang.sari
 tumpas
 tumpat
 tumpeng
@@ -27360,7 +27145,6 @@ tunggak
 tunggal
 tungganai
 tunggang
-tunggang.langgang
 tunggik
 tungging
 tunggu
@@ -27449,8 +27233,6 @@ uap
 uar
 uba
 ubah
-ubah.bentuk
-ubah.suai
 uban
 ubang
 ubar
@@ -27528,8 +27310,6 @@ ulam
 ulama
 ulan
 ulang
-ulang.kali
-ulang.tahun
 ular
 ulas
 ulat
@@ -27561,7 +27341,6 @@ ultrasonografi
 ultraungu
 ultraviolet
 ulu
-uluk.salam
 ulun
 ulung
 ulup
@@ -27640,7 +27419,6 @@ ungkur
 ungsi
 ungti
 ungu
-ungu.tirus
 unguis
 uni
 uniat
@@ -27668,7 +27446,6 @@ universiter
 universitet
 universum
 unjuk
-unjuk.rasa
 unjun
 unjung
 unjur
@@ -27783,7 +27560,6 @@ usul
 usuluddin
 usung
 usur
-usur.patol
 usus
 usut
 uswah
@@ -28135,7 +27911,6 @@ waras
 warasah
 wardi
 warga
-warga.negara
 wari
 waria
 warid
@@ -28183,7 +27958,6 @@ wawancara
 wawanmuka
 wawanrembuk
 wawas
-wawas.diri
 wawu
 wayang
 wayuh
@@ -28222,7 +27996,6 @@ werst
 wese
 wesel
 weselbor
-wesi.aji
 wesket
 westernis
 westernisasi
@@ -28313,7 +28086,6 @@ wukerar
 wukuf
 wulan
 wulang
-wulu.cumbu
 wulung
 wungon
 wungu
@@ -28360,7 +28132,6 @@ yaitu
 yakin
 yakis
 yakitori
-yakjuj.wa.makjuj
 yakni
 yaksa
 yakun
@@ -28408,7 +28179,6 @@ yudisium
 yuk
 yunda
 yunta
-yupa.prasasti
 yupiter
 yura
 yuridis
@@ -28497,7 +28267,6 @@ zirah
 zirbad
 zirkonia
 zirkonium
-zirkonium.oksida
 zirnikh
 ziter
 zodiak
